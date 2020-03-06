@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03a12c1e-598c-416f-83e9-a71d764ac68a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EffectRenderer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+              <folding>
+                <marker date="1580320015239" expanded="false" signature="6:81" ph="..." />
+                <marker date="1580320015239" expanded="true" signature="146:2455" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="467:657" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="686:717" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="745:776" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="814:868" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="906:2283" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="1024:1114" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="1610:1980" ph="{...}" />
+                <marker date="1580320015239" expanded="true" signature="2310:2453" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EffectSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+              <folding>
+                <marker date="1580320548409" expanded="true" signature="6:52" ph="..." />
+                <marker date="1580320548409" expanded="true" signature="79:2078" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="388:610" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="504:603" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="653:1109" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="671:1103" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="719:969" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="1246:1415" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="1462:1586" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="1627:2076" ph="{...}" />
+                <marker date="1580320548409" expanded="true" signature="1761:2051" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/EffectPostProcess.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="108" column="48" lean-forward="true" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
+              <folding>
+                <marker date="1580320576688" expanded="true" signature="41:5637" ph="{...}" />
+                <marker date="1580320576688" expanded="true" signature="57:365" ph="{...}" />
+                <marker date="1580320576688" expanded="true" signature="384:5635" ph="{...}" />
+                <marker date="1580320576688" expanded="true" signature="416:5629" ph="{...}" />
+                <marker date="1580320576688" expanded="true" signature="439:5614" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>i.</find>
+      <find>texcoord</find>
+      <find>sceneUVs</find>
+      <find>_ScreenParams</find>
+      <find>_EdgeApha</find>
+      <find>_EdgeAlpha</find>
+      <find>color</find>
+      <find>_Scale</find>
+      <find>?</find>
+      <find>_LineColor</find>
+      <find>_OutlineWidth</find>
+      <find>halfScaleFloor</find>
+      <find>objMask0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_OutlineWidth</replace>
+      <replace>width</replace>
+      <replace>maskBottomLeft</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../UnityAction/Assets/Scripts/MaskEffect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../UnityAction/Assets/Scripts/PostProcessOutlineRuntime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../UnityAction/Assets/Scripts/PostProcessOutline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../UA/UnityAction/Assets/Shaders/Outline2.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../UnityAction/Assets/Pixel/PostProcess.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/EffectObject.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../UA/UnityAction/Assets/Scripts/Object1Effect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PostProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../UA/UnityAction/Assets/Scripts/IE.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/EffectPostProcess.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/EffectRendererEditor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomGlowSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/objRenderer.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomGlowObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/effect.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomGlowRenderer.cs" />
+        <option value="$PROJECT_DIR$/../UA/UnityAction/Assets/Shaders/Outline2.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/EffectRendererEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectParams.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PostProcess.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/EffectObject.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EffectSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shaders/EffectPostProcess.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="814" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Shaders" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23121387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32985657" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.33028722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.31791908" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/TextureArrayInspector/Extensions/TextureArrayExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TextureArrayInspector/Main/TextureArrayDecorator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TextureArrayInspector/Editor/TextureArrayInspector.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomGlowSystem.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/objRenderer.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/effect.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomGlowObj.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomGlowRenderer.cs" />
+    <entry file="file://$PROJECT_DIR$/../UnityAction/Assets/Scripts/MaskEffect.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UnityAction/Assets/Scripts/PostProcessOutline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-786" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UnityAction/Assets/Pixel/PostProcess.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UnityAction/Assets/Scripts/PostProcessOutlineRuntime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UA/UnityAction/Assets/Scripts/Object1Effect.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UA/UnityAction/Assets/Scripts/IE.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../UA/UnityAction/Assets/Shaders/Outline2.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding>
+            <marker date="1579973279396" expanded="true" signature="25:4567" ph="{...}" />
+            <marker date="1579973279396" expanded="true" signature="41:490" ph="{...}" />
+            <marker date="1579973279396" expanded="true" signature="509:4565" ph="{...}" />
+            <marker date="1579973279396" expanded="true" signature="595:4559" ph="{...}" />
+            <marker date="1579973279396" expanded="true" signature="618:4544" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/EffectRendererEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1580305536383" expanded="true" signature="6:37" ph="..." />
+            <marker date="1580305536383" expanded="true" signature="55:386" ph="{...}" />
+            <marker date="1580305536383" expanded="true" signature="159:384" ph="{...}" />
+            <marker date="1580305536383" expanded="true" signature="211:378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EffectParams.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1580307768413" expanded="true" signature="6:68" ph="..." />
+            <marker date="1580307768413" expanded="true" signature="110:2457" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="425:2455" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="573:650" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="693:770" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="813:892" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="921:1000" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1044:1123" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1153:1230" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1275:1352" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1382:1459" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1504:1581" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1626:1703" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1733:1810" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1855:1931" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="1961:2037" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="2082:2158" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="2203:2280" ph="{...}" />
+            <marker date="1580307768413" expanded="true" signature="2325:2402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/EffectObject.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <folding>
+            <marker date="1580317930534" expanded="true" signature="36:1335" ph="{...}" />
+            <marker date="1580317930534" expanded="true" signature="68:1333" ph="{...}" />
+            <marker date="1580317930534" expanded="true" signature="79:1327" ph="{...}" />
+            <marker date="1580317930534" expanded="true" signature="93:1318" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PostProcess.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1580317538835" expanded="true" signature="112:469" ph="{...}" />
+            <marker date="1580317538835" expanded="true" signature="250:467" ph="{...}" />
+            <marker date="1580317538835" expanded="true" signature="275:398" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EffectObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <marker date="1580319092957" expanded="true" signature="6:32" ph="..." />
+            <marker date="1580319092957" expanded="true" signature="95:612" ph="{...}" />
+            <marker date="1580319092957" expanded="true" signature="167:353" ph="{...}" />
+            <marker date="1580319092957" expanded="true" signature="185:347" ph="{...}" />
+            <marker date="1580319092957" expanded="true" signature="420:464" ph="{...}" />
+            <marker date="1580319092957" expanded="true" signature="489:533" ph="{...}" />
+            <marker date="1580319092957" expanded="true" signature="562:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EffectSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="45" column="43" lean-forward="true" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+          <folding>
+            <marker date="1580320548409" expanded="true" signature="6:52" ph="..." />
+            <marker date="1580320548409" expanded="true" signature="79:2078" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="388:610" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="504:603" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="653:1109" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="671:1103" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="719:969" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="1246:1415" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="1462:1586" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="1627:2076" ph="{...}" />
+            <marker date="1580320548409" expanded="true" signature="1761:2051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EffectRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding>
+            <marker date="1580320015239" expanded="false" signature="6:81" ph="..." />
+            <marker date="1580320015239" expanded="true" signature="146:2455" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="467:657" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="686:717" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="745:776" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="814:868" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="906:2283" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="1024:1114" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="1610:1980" ph="{...}" />
+            <marker date="1580320015239" expanded="true" signature="2310:2453" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Shaders/EffectPostProcess.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="108" column="48" lean-forward="true" selection-start-line="108" selection-start-column="48" selection-end-line="108" selection-end-column="48" />
+          <folding>
+            <marker date="1580320576688" expanded="true" signature="41:5637" ph="{...}" />
+            <marker date="1580320576688" expanded="true" signature="57:365" ph="{...}" />
+            <marker date="1580320576688" expanded="true" signature="384:5635" ph="{...}" />
+            <marker date="1580320576688" expanded="true" signature="416:5629" ph="{...}" />
+            <marker date="1580320576688" expanded="true" signature="439:5614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

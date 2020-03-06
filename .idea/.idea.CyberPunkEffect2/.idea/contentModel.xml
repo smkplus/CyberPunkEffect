@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Scott Robertson\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Scott Robertson\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_CyberPunkEffect2.2076841647.00" t="ExcludeRecursive" />
+    <e p="D:\TempUnityprojects\CyberPunkEffect2" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Editor" t="Include">
+            <e p="EffectRendererEditor.cs" t="Include" />
+          </e>
+          <e p="EffectObject.cs" t="Include" />
+          <e p="EffectParams.cs" t="Include" />
+          <e p="EffectRenderer.cs" t="Include" />
+          <e p="EffectSystem.cs" t="Include" />
+          <e p="PostProcess.cs" t="Include" />
+          <e p="Shaders" t="Include">
+            <e p="Diffuse.shader" t="Include" />
+            <e p="EffectObject.shader" t="Include" />
+            <e p="EffectPostProcess.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CyberPunkEffect2.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
