@@ -70,4 +70,4 @@ Stencil
 
 
 # ToDo
-Complete the training Tutorial
+Complete the Tutorial
