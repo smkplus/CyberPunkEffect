@@ -7,6 +7,7 @@ Seyed Morteza Kamali
 
 Mohammad Zamanian
 
+
 ![image](https://user-images.githubusercontent.com/16706911/76066136-3c589380-5fa2-11ea-917e-ec85529c580c.png)
 
 
@@ -23,6 +24,13 @@ This tutorial will describe step-by-step how to write a cyber punk like scanning
 ![image](https://user-images.githubusercontent.com/16706911/76066897-b2a9c580-5fa3-11ea-9113-032b6d1b73a1.png)
 
 ![Record_2020_03_06_12_24_27_337](https://user-images.githubusercontent.com/16706911/76078657-57ce9900-5fb8-11ea-921f-b84640550de5.gif)
+
+
+## Our Implementation
+## https://twitter.com/ShaderGuy/status/1217308220034899969?s=20
+
+## Full Video:
+## https://twitter.com/ShaderGuy/status/1217315711401582594?s=20
 
 # 2. Objects mask
 As you may know, we can implement outline effect and fill effect easily in regular object shaders using vertex distortion and screen space overlay effects, but the third effect which cannot be implemented using regular shaders is pixelation effect, this effect can only be created using image effects because it goes outside the object with this effect applied. The problem with this implementation is that we cannot apply the image effect on specific objects and it will be applied to the whole screen. So we need a way to mask our objects in our image effect shader.
