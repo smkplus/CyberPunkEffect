@@ -25,7 +25,7 @@ There are two ways to implement object mask to use it in our effect:
 3.Using command buffers
 
 
-# 2.1 Using unity’s pre-rendered stencil buffer
+# 2.1 Using stencil buffer
 A stencil buffer is an extra data buffer, in addition to color buffer and depth buffer. The buffer is per pixel and works on 8bit integer values.
 In the simplest case, the stencil buffer is used to mask area of rendering. For example, you want to render a character everywhere but in a sphere.
 As shown in the image below, before anything is drawn in stencil buffer, the buffer is filled with zeros for each pixel and is black and we can make it white by replacing the buffer values in the area of the object we want to mask with.
