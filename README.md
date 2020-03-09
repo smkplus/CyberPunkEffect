@@ -1,7 +1,7 @@
 
 # Cyberpunk 2077 Scanning Effect
 
-CyberPunkEffect Recreated By:
+This effect Recreated By:
 
 Seyed Morteza Kamali
 
