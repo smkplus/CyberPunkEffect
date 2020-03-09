@@ -69,5 +69,15 @@ Stencil
 ## Applying to multiple objects
 
 
+# Useful links:
+
+## [Image effect on specific part of objects](https://www.linkedin.com/pulse/image-effect-specific-part-objects-seyed-morteza-kamali/)
+
+![0](https://user-images.githubusercontent.com/16706911/76190501-60aaaf00-61f2-11ea-8844-73f1af39d574.jpg)
+
+
 # ToDo
 Complete the Tutorial
+
+
+
