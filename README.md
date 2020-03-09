@@ -1,5 +1,5 @@
 
-# CyberPunkEffect
+# Cyberpunk 2077 Scanning Effect
 
 CyberPunkEffect Recreated By:
 
@@ -16,7 +16,7 @@ Mohammad Zamanian
 ![Record_2020_03_06_12_08_48_299](https://user-images.githubusercontent.com/16706911/76066664-48912080-5fa3-11ea-9b0d-6bac6137143d.gif)
 
 
-# 1. Cyberpunk 2077 scanning effect
+# 1. Introduction
 This tutorial will describe step-by-step how to write a cyber punk like scanning effect in unity. The effect is made from different parts such as outline, pixelation and fill effect. You can see the effect in the following images:
 
 
